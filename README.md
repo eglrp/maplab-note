@@ -1,3 +1,6 @@
+## maplab注释
+只注释了建图以及一些自己需要的部分的代码，代码会有改动，无视就好
+
 <img src="https://github.com/ethz-asl/maplab/wiki/logos/maplab_new.png" width="500">
 
 *Ubuntu 14.04+ROS indigo* and *Ubuntu 16.04+ROS kinetic*: [![Build Status](https://jenkins.asl.ethz.ch/buildStatus/icon?job=maplab_nightly)](https://jenkins.asl.ethz.ch/job/maplab_nightly)
