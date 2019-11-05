@@ -109,5 +109,3 @@ Certain components of maplab are directly using the code of the following public
  * Mathias Gehrig
  
 For a complete list of contributors, have a look at [CONTRIBUTORS.md](https://github.com/ethz-asl/maplab/blob/master/CONTRIBUTORS.md)
-# maplabnote
-# maplab-note
